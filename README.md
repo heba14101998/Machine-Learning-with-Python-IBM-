@@ -17,11 +17,11 @@ you can acess the course from here [https://courses.cognitiveclass.ai/courses/co
 * Numpy.
 
 ### Projects
-#### 1. K-Nearest Neighbors
-#### 2. Decision Trees
-#### 3. Logistic Regression
-#### 4. Support Vector Machine (SVM)
-#### 5. K-Means Clustering
-#### 6. Hierarchical Clustering
-#### 7. Content-Based Recommender Systems
-#### 8. Collaborative Filtering - using Watson studio
+1. K-Nearest Neighbors
+2. Decision Trees
+3. Logistic Regression
+4. Support Vector Machine (SVM)
+5. K-Means Clustering
+6. Hierarchical Clustering
+7. Content-Based Recommender Systems
+8. Collaborative Filtering - using Watson studio
